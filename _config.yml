@@ -11,7 +11,7 @@ title                    : "Marcelo Mora webpage"
 title_separator          : "-"
 name                     : "Marcelo Mora"
 description              : "Welcome to my website. Content is under construction "
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mamora.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # mamora/mamora
 teaser                   : /assets/images/unsplash-gallery-image-3.png
@@ -21,7 +21,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : disqus_Vo9CyvCFJR
+    shortname            : mamora-github-io-1
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
