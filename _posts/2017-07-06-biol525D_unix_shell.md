@@ -1,7 +1,10 @@
-# Biol525D unix shell
-Marcelo Mora  
-30 de junio de 2017  
-
+---
+title: "Biol525D unix shell"
+author: "Marcelo Mora"
+date: "2017-06-3-"
+tag: shell
+comments: true
+---
 
 This is the first of a series of posts about what I am learning in the BIol525D class. I leave the link of the class here [link](https://github.com/owensgl/biol525D)
 
