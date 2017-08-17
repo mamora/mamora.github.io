@@ -2,7 +2,7 @@
 title: "Biol525D unix shell"
 author: "Marcelo Mora"
 date: "2017-06-3-"
-tags: shell
+tag: shell
 comments: true
 ---
 
