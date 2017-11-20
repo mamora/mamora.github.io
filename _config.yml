@@ -15,7 +15,7 @@ name                     : "Marcelo Mora"
 description              : "Welcome to my website. Content is under construction "
 url                      : "https://mamora.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mamora/mamora.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/unsplash-gallery-image-3.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
  breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
